@@ -65,6 +65,6 @@ The table below helps visualize a summary of the performance of each applied mod
 | Precision | 0.99 | 0.99 | 0.99 | 0.99 | 0.99 | 0.99 |
 | Recall | 0.94 | 0.89 | 0.68 | 0.57 | 0.61 | 0.40 |
 
-The EasyEnsembleClassifier is the model that returned the best results out of the six models applied to the credit risk dataset. Its highest accuracy score means 94% of its predictions were correct, and the higher precision and recall scores mean it did better than the other models when predicting high/low risk loans correctly.
+The EasyEnsembleClassifier is the model that returned the best results out of the six models applied to the credit risk dataset. Its highest accuracy score means 94% of its predictions were correct, and the higher precision and recall scores mean it did better than the other models when predicting high risk loans correctly.
 
 
